@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Nattapat140/Nattapat140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Whats upp!! 👋
+📖 I’m currently studying on a degree of Electrical Engineering and Computer Science 
+🔥 Enjoy learning new topics, currently interested in ->
+      🤖 AI
+      🤖📚 Machine Learning
+      🌈 Web-application
+📫 How to reach me: nattapat55212@gmail.com
+⚡ In case we have the same common interests :3 ->
+      🧑‍🍳 Cooking
+      🎹 Going to the concerts
+      🤑 Investment
